@@ -5,8 +5,8 @@ A simple page with theme color changer.
 
 Preview
 
-[Theme Color Changer Preview 1](/themeColorChanger1.gif)
+![Theme Color Changer Preview 1](/themeColorChanger1.gif)
 
 Mobile View
 
-[Theme Color Changer Preview 2](/themeColorChanger2.gif)
+![Theme Color Changer Preview 2](/themeColorChanger2.gif)
